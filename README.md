@@ -1,5 +1,12 @@
-## Hi there 👋
-
+# Hi there 👋
+‎بسم ﷲ الرحمن الرحيم
+1. /hɐ\~ɦɐ/ /nɐ/ /t͡ʃɐ\~t͡ɕɐ/ /r̻ɐ\~r̻ˁɔ̜/ /kɐ/
+2. /dɐ/ /tɐ/ /sɐ/ /wɐ/ /lɐ\~l̠ɐ\~ɫɔ̜\~ɫ̠ɔ̜/
+3. /ʔɐ/ /χ̰ɔ˗\~x̰i/ /ðɐ/ /θɐ/ /zɐ/
+4. /qɔ̜/ /tˁɔ̜˗/ /ʕɐ/ /sˁɔ̜/ /ħɐ\~çi\~ʍu/
+5. /pɐ/ /ɖɐ/ /d͡ʒɐ\~d͡ʑɐ/ /jɐ/ /ɲɐ/
+6. /ɮ̻˕ˁɔ̜˗\~ɮ̠̻˕ˁɔ̜˗/ /ðˁɔ̜˗/ /ʁɔ̜\~ɣi/ /fɐ\~ɸu/ /ʃɐ\~ɕɐ/
+7. /mɐ/ /ɡɐ/ /bɐ/ /ʈɐ/ /ɴɔ̜\~ŋi/
 <!--
 **Globalroot/globalroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
